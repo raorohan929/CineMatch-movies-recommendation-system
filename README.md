@@ -1,3 +1,5 @@
+DEMO LINK for UI ---- http://localhost:8501/
+
 Project Overview
 1 CineMatch — a genre-based movie recommender combining KNN with a rating/popularity weighting scheme
 2 Built with Streamlit for the UI, styled like a cinema ticket booth theme
